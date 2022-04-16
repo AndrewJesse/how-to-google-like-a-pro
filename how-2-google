@@ -1,0 +1,11 @@
+SITE:docs.oracle.com "array example"
+
+AFTER:2020
+
+FILETYPE:PDF
+
+RELATED:URL
+
+"EXACT MATCH"
+
+-WITHOUT
